@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mat</h1>
-<h3 align="center">A passionate Junior Developer</h3>
+<h3 align="center">A passionate mid-senior Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgz&label=Profile%20views&color=0e75b6&style=flat" alt="kgz" /> </p>
 
-- 🌱 I’m currently learning **Rust, SurrealDB**
+- 🌱 I’m currently learning **Rust** in my spare time and polishing up my php and react during my work.
+- 📖 I'm currently studying Google Cyber Security Professional Certificate.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
